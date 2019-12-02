@@ -1,3 +1,3 @@
 # reactjs-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/lamjar-reactjs-project)
+[Demo ICI ⚡️](https://stackblitz.com/edit/lamjar-reactjs-project)
