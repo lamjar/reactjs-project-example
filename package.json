@@ -1,0 +1,20 @@
+{
+  "name": "reactjs-sample-project-4j7cuc",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-slick": "0.23.1",
+    "react-router-dom": "4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
